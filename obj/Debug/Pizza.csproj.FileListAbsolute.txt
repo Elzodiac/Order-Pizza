@@ -1,0 +1,32 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.pdb
+C:\Users\scofi\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\scofi\Desktop\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\scofi\Desktop\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\scofi\Desktop\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\scofi\source\repos\Pizza Project\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\scofi\source\repos\Pizza Project\Pizza\bin\Debug\Pizza.exe
+C:\Users\scofi\source\repos\Pizza Project\Pizza\bin\Debug\Pizza.pdb
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.exe
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.pdb
+C:\Users\scofi\source\repos\Pizza Project\Pizza\obj\Debug\Pizza.exe.config
