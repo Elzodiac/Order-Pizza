@@ -47,7 +47,8 @@ This application allows users to select the type and size of pizza, add toppings
 
 ## Screenshot (Optional)
 
-![Screenshot](assets/screenshot.png)
+
+<img width="1920" height="977" alt="screenshot" src="https://github.com/user-attachments/assets/aa3d0718-827e-468f-a20d-c662d604488e" />
 
 *You can upload a screenshot image to the `assets` folder and update this link.*
 
